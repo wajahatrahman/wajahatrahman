@@ -77,6 +77,13 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
+[![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatrahman&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+)](https://github.com/wajahatrahman/github-readme-stats)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=wajahatrahman&theme=react-dark&area=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=wajahatrahman&theme=tokyonight&hide_border=true)
+
 
 <h3 align="center"> 🌍 Reach me out </h3>
 <br />
