@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Tech Stack :computer:
 
 <br>
-<table>
+<table width="400">
 <tbody>
  <tr>
 <td align="center" width="20%">
