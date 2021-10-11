@@ -5,7 +5,7 @@
 
 ### Tech Stack :computer:
 <br>
-<table width="300">
+<table width="500">
 <tbody>
  <tr>
 <td align="center" width="20%">
