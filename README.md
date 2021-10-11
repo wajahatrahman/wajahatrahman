@@ -7,9 +7,9 @@
 
 ## Tech Stack :computer:
 <div>
- <img align="right" style="max-width:55%" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
+ <img align="right"  src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
 <br>
-<table width="300">
+<table width="300" style="max-width:55%">
 <tbody>
  <tr>
 <td align="center" width="20%">
