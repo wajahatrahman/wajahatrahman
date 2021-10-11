@@ -7,7 +7,7 @@
 
 ## Tech Stack :computer:
 <div>
- <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
+ <img align="right" style="max-width:55%" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
 <br>
 <table width="300">
 <tbody>
@@ -68,7 +68,7 @@
 
 </tbody>
 </table>
-
+</div>
 ## 📈 Github_Stats
 
 [![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatrahman&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
