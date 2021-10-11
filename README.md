@@ -2,14 +2,12 @@
 ### I'm Wajahat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Techno-Functional+Consultant+and+FinTech+Engineer;Java+Developer+with+4%2B+Years+Experience;Passionate+about+making+everthing+around+me+automated)](https://git.io/typing-svg)
+<img align="right"  src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
 
 
-
-## Tech Stack :computer:
-<div>
- <img align="right"  src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
+### Tech Stack :computer:
 <br>
-<table width="300" style="max-width:55%">
+<table width="300">
 <tbody>
  <tr>
 <td align="center" width="20%">
@@ -68,8 +66,8 @@
 
 </tbody>
 </table>
-</div>
-## 📈 Github_Stats
+
+### 📈 Github_Stats
 
 [![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatrahman&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
 )](https://github.com/wajahatrahman/github-readme-stats)
