@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
+## 📈 Github_Stats
+
 [![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatrahman&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
 )](https://github.com/wajahatrahman/github-readme-stats)
 
