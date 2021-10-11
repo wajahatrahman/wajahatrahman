@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Wajahat
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Techno-Functional+Consultant+and+FinTech+Engineer;Java+Developer+with+4%2B+Years+Experience;Passionate+about+making+everthing+around+me+automated)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Techno-Functional+Consultant+and+FinTech+Engineer;Java+Developer+with+4%2B+Years+Experience;Passionate+about+making+everything+around+me+automated)](https://git.io/typing-svg)
 
 ### Tech Stack :computer:
 <br>
