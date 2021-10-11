@@ -2,8 +2,6 @@
 ### I'm Wajahat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=700&lines=Techno-Functional+Consultant+and+FinTech+Engineer;Java+Developer+with+4%2B+Years+Experience;Passionate+about+making+everthing+around+me+automated)](https://git.io/typing-svg)
-<img align="right"  src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="450">
-
 
 ### Tech Stack :computer:
 <br>
